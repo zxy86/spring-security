@@ -1,0 +1,8 @@
+com\itheima\mapper\RoleMapper.class
+com\itheima\domain\SysRole.class
+com\itheima\domain\SysUser.class
+com\itheima\service\UserService.class
+com\itheima\advice\HandlerControllerException.class
+com\itheima\mapper\UserMapper.class
+com\itheima\config\SecurityConfig.class
+com\itheima\service\impl\UserServiceImpl.class
